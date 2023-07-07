@@ -5,7 +5,7 @@
     <uri>https://github.com/CyberonEBU/cyberon-dspotter-lib-psoc6-cm4</uri>
     <desc>This SDK is used for keyword detection on PSoC6 devices.</desc>
     <category>Voice</category>
-    <req_capabilities>cat1</req_capabilities>
+    <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="1.0,2.0">
         <num>1.0 release</num>
@@ -20,7 +20,7 @@
     <uri>https://github.com/CyberonEBU/cyberon-dspotter-lib-psoc6-cm0p</uri>
     <desc>This SDK is used for keyword detection on PSoC6 devices.</desc>
     <category>Voice</category>
-    <req_capabilities>cat1</req_capabilities>
+    <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="1.0,2.0">
         <num>1.0 release</num>
