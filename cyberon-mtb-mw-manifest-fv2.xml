@@ -8,9 +8,9 @@
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="1.0,2.0">
-        <num>1.0 release</num>
-        <commit>release-v1.0</commit>
-        <desc>1.0 release</desc>
+        <num>2.0 release</num>
+        <commit>release-v2.0</commit>
+        <desc>2.0 release</desc>
       </version>
     </versions>
   </middleware>
@@ -23,9 +23,9 @@
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="1.0,2.0">
-        <num>1.0 release</num>
-        <commit>release-v1.0</commit>
-        <desc>1.0 release</desc>
+        <num>2.0 release</num>
+        <commit>release-v2.0</commit>
+        <desc>2.0 release</desc>
       </version>
     </versions>
   </middleware>
